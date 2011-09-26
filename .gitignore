@@ -1,0 +1,11 @@
+[Bb]in/
+[Dd]ebug/
+[Oo]bj/
+[Rr]elease/
+*.bak
+*.[Cc]ache
+*.log 
+*.nupkg
+*.suo
+[Tt]humbs.db 
+*.user
